@@ -1,4 +1,5 @@
 {
   "name": "marc-tt/intuitive-custom-post-order",
-  "description": ""
+  "description": "",
+  "type": "wordpress-plugin"
 }
